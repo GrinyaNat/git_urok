@@ -93,4 +93,4 @@ function luckyNumber(x) {
 function banana() {
     let a = 'a';
     let b = 'b';
-}//должно вывести bananassss
+}//должно вывести bananassssss
